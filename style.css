@@ -78,5 +78,5 @@ body {
 	background-image: linear-gradient(rgba(0, 0, 0, 0), rgba(175, 175, 255, 0.75));
 	-webkit-user-drag: none;
 	-moz-user-select: none;
-	user-select: none;
+	user-select: none; 
 }
